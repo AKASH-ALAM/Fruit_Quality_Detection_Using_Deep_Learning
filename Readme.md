@@ -1,6 +1,6 @@
 # Smart IoT System for Fruit Quality Detection Using Deep Learning
 
-An end-to-end, ultra-low-cost IoT computer vision system designed to automate fruit quality inspection. This project proves that highly accurate, multi-object enterprise-grade AI inspection can be achieved on budget edge hardware (a $5 camera) without heavy local GPU processing. 
+An end-to-end, ultra-low-cost IoT computer vision system designed to automate fruit quality inspection. This project proves that highly accurate, multi-object enterprise-grade AI inspection can be achieved on budget edge hardware (a $15 camera) without heavy local GPU processing. 
 
 ---
 
